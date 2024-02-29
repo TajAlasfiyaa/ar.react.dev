@@ -2,7 +2,7 @@ repo_name: TajAlasfiyaa/ar.react.dev
 report_id: cf6886589556b46de9d9743e11ceb8da
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:26:29+00:00'
+timestamp: '2024-02-29T19:00:29+00:00'
 requested_by: A7med3bdulBaset
 provider: github
 branch: main
@@ -53,7 +53,7 @@ tools:
   last_updated_by: Anjorin Damilare
   last_updated_on: 2022-02-21 21:40:33.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.4.1
   open_source: true
@@ -180,7 +180,7 @@ tools:
   last_updated_by: Dan Abramov
   last_updated_on: 2021-11-06 19:58:12.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.1
   license: MIT
